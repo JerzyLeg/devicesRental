@@ -1,0 +1,3 @@
+C:\Users\ja\wypozyczalnia\x64\Debug\wypozyczalnia.exe
+C:\Users\ja\Desktop\170fe965-gr11-repo\Projekt\wypozyczalnia\x64\Debug\wypozyczalnia.exe
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\x64\Debug\wypozyczalnia.exe

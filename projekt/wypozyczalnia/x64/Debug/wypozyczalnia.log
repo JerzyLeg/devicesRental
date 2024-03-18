@@ -1,0 +1,18 @@
+﻿  CLineHelper.cpp
+  CurveTracer.cpp
+  Detector.cpp
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\CurveTracer.cpp(18,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\Detector.cpp(17,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  FileManager.cpp
+  Device.cpp
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\Device.cpp(42,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Gauge.cpp
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\Gauge.cpp(21,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Recorder.cpp
+C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\Recorder.cpp(17,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Reservation.cpp
+  ReservationManager.cpp
+  User.cpp
+  wypozyczalnia.cpp
+  Generating Code...
+  wypozyczalnia.vcxproj -> C:\Users\ja\Desktop\repozytorium\170fe965-gr11-repo\Projekt\wypozyczalnia\x64\Debug\wypozyczalnia.exe

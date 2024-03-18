@@ -1,0 +1,5 @@
+urz¹dzenie,model,liczba kana³ów,rozdzielczoœæ,cena,parametr1,parametr2,parametr3,parametr4
+curve tracer,Tracer0,5,370,60,15,,,
+detector,Detector0,7,410,50,,20,,
+gauge,Gauge0,13,290,40,,,25,
+recorder,Recorder0,11,315,55,,,,30
